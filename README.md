@@ -1,1 +1,2 @@
 # Space_Jam_ANL
+Inspirado no recente filme SPACE JAM: UM NOVO LEGADO, este roteiro de aprendizagem mostrará aos fãs de basquete de que modo o conhecimento sobre ciência de dados e codificação poderá dar suporte a interesses, criar oportunidades e até mesmo viabilizar possíveis carreiras. Desenvolva habilidades usando o Visual Studio Code, o Azure, o GitHub, o JavaScript e o Python com o objetivo de obter insights sobre de que modo determinados momentos ao longo da carreira de um jogador poderão ser responsáveis por uma decisão crítica no jogo final de um campeonato.
